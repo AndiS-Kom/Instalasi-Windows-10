@@ -1,7 +1,7 @@
 # Instalasi-Windows-10
 Penjelasan dan Langkah-langkah
 
-1. Persyaratan Sistem Minimum Windows 11
+1. Persyaratan Sistem Minimum Windows 10
 Sebelum melakukan instalasi, pastikan komputer memenuhi spesifikasi minimum:
 	•	Motherboard: Minimal dengan Slot RAM DDR2 atau lebih tinggi.
 	•	Prosesor: 1 GHz atau lebih cepat, dengan 2 atau lebih core pada prosessor.
