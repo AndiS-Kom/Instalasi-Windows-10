@@ -46,7 +46,7 @@ Alat yang Dibutuhkan
 		o	Pilih bahasa, waktu, dan metode input keyboard, lalu klik Next.
 		o	Klik Install Now.
 		o	Jika diminta, masukkan Product Key, atau klik I don’t have a product key untuk melanjutkan tanpa aktivasi.
-		o	Pilih edisi Windows 11 yang akan diinstal, lalu klik Next.
+		o	Pilih edisi Windows 10 yang akan diinstal, lalu klik Next.
 		o	Centang I accept the license terms, lalu klik Next.
 		o	Pilih Custom: Install Windows only (advanced).
 		o	Pilih partisi tempat Windows akan diinstal: 
